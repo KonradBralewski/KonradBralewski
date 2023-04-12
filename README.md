@@ -1,16 +1,17 @@
-### Hi there 👋
+####  <p>Hi :raised_hands:,
+I am currently working on personal web dev. projects. I want to find my first ASP.NET job (:sparkling_heart:preferrably fullstack:sparkling_heart:)</p>
 
-<!--
-**KonradBralewski/KonradBralewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+##### Current projects
+  - <a href=https://github.com/KonradBralewski/Idunno>Idunno<a/> <sub><sup>(Frontend for cooking experience sharing website -> React + Tailwind CSS)</sup></sub>
+  - <a href="https://github.com/KonradBralewski/IdunnoAPI">IdunnoAPI<a/> <sub><sup>(REST API written as ASP.NET Core Web API, SQL Server as a database)</sup></sub>
+	
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+######	Future Goals
+	ASP.NET MVC project
+	Angular projects
+
+![image]({https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white})
+
