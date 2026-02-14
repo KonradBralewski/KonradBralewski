@@ -31,7 +31,7 @@ I’m a software engineer focused on backend development and distributed systems
 
 ### Work experience
 - **Software Engineer — Just Join IT**  
-  Working on business-critical platform microservices (including e-commerce modules) and supporting internal back-office tools. Contributed to small AI-related integrations where needed.
+  Working on business-critical jobBoard platform microservices (including payments modules) and supporting internal back-office tools.
 
 - **Software Engineer — Perfect Gym Solutions**  
   Maintained and extended core SaaS functionality, built internal back-office tools, and improved stability and performance in a large legacy system.
